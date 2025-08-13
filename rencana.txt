@@ -3,7 +3,10 @@ rencana kontennya web programming unpas
 - Javascipt
   * ES6
   * Framework Javascript
+    ^ Vue
 - Struktur data dasar
 - PHP Frameworks
+  ^ Laravel
 - Interviews
 - Vlog
+- Python
